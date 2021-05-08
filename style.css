@@ -1,0 +1,65 @@
+
+    .header{
+
+        color:orangered;
+        border:inset;
+        background-color:darkblue;
+    }
+
+    .footer{
+
+        color:orangered;
+        border:inset;
+        background-color:darkblue;
+    }
+
+    .content{
+        display:table-cell;
+        flex-wrap:nowrap;
+        justify-content: space-evenly;
+    }
+
+    .tigers{
+        background-color: lightsalmon;
+        display:table-cell;
+        flex-wrap:nowrap;
+        justify-content: space-evenly;
+    }
+
+    .lions{
+       background-color:cornflowerblue;
+       display:table-cell;
+        flex-wrap:nowrap;
+        justify-content: space-evenly;
+    }
+
+    .leopards{
+        background-color: darkkhaki;
+        display:table-cell;
+        flex-wrap:nowrap;
+        justify-content: space-evenly;
+    }
+
+    .cheetahs{
+        background-color: darkorange;
+        display:table-cell;
+        flex-wrap:nowrap;
+        justify-content: space-evenly;
+    }
+
+    .jaguar{
+        background-color:yellow;
+        display:table-cell;
+        flex-wrap:nowrap;
+        justify-content: space-evenly;
+    }
+      
+    a:link{
+        color:blue;
+    }
+
+    a:visited{
+        color: darkred;
+    }
+        
+    
